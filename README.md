@@ -1,6 +1,6 @@
 Hi, I'm Shubham Bhandari 👋
 
-🎯 Aspiring Data Analyst from India
+🎯 Aspiring Data Analyst
 📊 Skilled in Python, SQL, Power BI, and Excel
 📍 New Delhi, India
 
